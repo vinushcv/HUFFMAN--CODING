@@ -29,7 +29,7 @@ Register no  : 212222230176
 ```
 ``` Python
 # Get the input String
-string ="BEJIN"
+string ="VINUSH"
 
 # Create tree nodes
 class NodeTree(object):
@@ -79,7 +79,8 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/e837674b-e100-4ed6-a904-36ce65ef4d18)
+![image](https://github.com/user-attachments/assets/9b6eebe2-4396-4ab7-89e7-85242f0abcc2)
+
 
 
 ## Result
